@@ -4,7 +4,9 @@ Welcome to my GitHub! Here you will find projects developed by me, Mikael Wander
 
 At the moment, I am focused on learning the programming languages C and Python, and working on projects that can improve my skills and knowledge in the IT field.
 
-Feel free to explore my repositories and, if you have any questions or suggestions, don't hesitate to contact me. Thank you for visiting! 💻👨‍💻🌵
+Feel free to explore my repositories and, if you have any questions or suggestions, don't hesitate to contact me. 
+
+Thank you for visiting! 💻👨‍💻🌵
 
 <div>
   <a href="https://github.com/mikaelwmds">

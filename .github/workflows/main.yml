@@ -1,0 +1,48 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "*/12 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.1.2
+        with:
+          node-version: "14.x"
+
+      - name: Install dependencies
+        run: npm install pacman.js
+
+      - name: Generate SVG
+        run: |
+          const Pacman = require('pacman.js');
+
+          const pacman = new Pacman({
+            el: '#pacman-container', // Element to render Pac-Man
+            width: 400, // Width of the SVG
+            height: 400, // Height of the SVG
+            color: 'yellow', // Color of the Pac-Man
+          });
+
+          pacman.animate(); // Start animation
+
+          const fs = require('fs');
+          const svg = document.getElementById('pacman-container').outerHTML;
+          fs.writeFileSync('dist/pacman.svg', svg);
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: dist
+          clean: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

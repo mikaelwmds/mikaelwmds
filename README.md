@@ -26,7 +26,7 @@ Feel free to explore my repositories and, if you have any questions or suggestio
 
 ### 📫 Let's get in touch:
 
-<div>  
+<div>
   <a href="https://www.linkedin.com/in/mikael-wanderson-moura-dos-santos-264158271/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
@@ -35,5 +35,8 @@ Feel free to explore my repositories and, if you have any questions or suggestio
   </a>
   <a href="https://www.instagram.com/mikaelwmds/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>  
+  </a>
+  <a href="https://beacons.ai/mikaelwmds" target="_blank">
+  <img src="https://img.shields.io/badge/-Beacons.ai-black?style=for-the-badge&logo=beaconsai&logoColor=white" target="_blank">
+  </a>
 </div>

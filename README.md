@@ -1,4 +1,10 @@
-### 👋🏻 Hello! My name is Mikael Wanderson. 👨‍💻
+### 👋🏻 Hello! My name is Mikael Wanderson. 
+
+Welcome to my GitHub! Here you will find projects developed by me, Mikael Wanderson, a Information Technology student at the Universidade Federal Rural do Semi-Árido (UFERSA), located in the Brazilian northeast countryside.
+
+At the moment, I am focused on learning the programming languages C and Python, and working on projects that can improve my skills and knowledge in the IT field.
+
+Feel free to explore my repositories and, if you have any questions or suggestions, don't hesitate to contact me. Thank you for visiting! 💻👨‍💻🌵
 
 <div>
   <a href="https://github.com/mikaelwmds">
@@ -6,12 +12,17 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelwmds&layout=compact&langs_count=16&theme=algolia"/>
   </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="mikaelwmds-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="mikaelwmds-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
-##
+### 🔧 Technologies & Tools:
+
+</div>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/static/v1?label=Language&message=C&color=white"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/static/v1?label=Language&message=Python&color=white&"/>
+</a>
+</div>
 
 ### 📫 Let's get in touch:
 
@@ -21,9 +32,6 @@
   </a>
   <a href="https://www.linkedin.com/in/mikael-wanderson-moura-dos-santos-264158271/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/mikaelwmds/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/mikaelwmds/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">

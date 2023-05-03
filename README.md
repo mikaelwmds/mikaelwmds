@@ -29,7 +29,7 @@ Thank you for visiting! 💻👨‍💻🌵
 ### 📫 Let's get in touch:
 
 <div>
-  <a href="https://www.linkedin.com/in/mikael-wanderson-moura-dos-santos-264158271/" target="_blank">
+  <a href="https://www.linkedin.com/in/mikael-wanderson-264158271/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://github.com/mikaelwmds" target="_blank">
